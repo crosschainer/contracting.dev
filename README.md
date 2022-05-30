@@ -4,4 +4,6 @@ coverY: 0
 
 # Welcome!
 
-This GitBook contains quick and short information that can be used to develop on Lamden
+## Welcome aboard!
+
+Welcome to the company wiki! Here you'll find everything you need to know about the company.

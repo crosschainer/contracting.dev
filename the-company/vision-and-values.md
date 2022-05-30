@@ -36,7 +36,7 @@ If a @export function takes keyword arguments(kwargs), they will be available to
 def a_function_with_kwargs(a_string: str, a_integer: int, a_float: float, \
     a_list: list, a_dict: dict, a_datetime: datetime.datetime, \
     a_timedelta: datetime.timedelta, a_bool: bool):
-    pass
+    return a_string
     
 """
 If a function has no annotation, it is only executable within the contract (no users)
