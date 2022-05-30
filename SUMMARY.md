@@ -2,7 +2,6 @@
 
 * [Welcome!](README.md)
 
-## The Company
+## Contracting
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [Basic Contract Structure](contracting/basic-contract-structure.md)
