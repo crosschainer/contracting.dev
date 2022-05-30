@@ -4,7 +4,7 @@
 
 ```python
 """
-Similar to a dict. If you try to read a none existing value, it will return the default_value.
+A hash is similar to a dict. If you try to read a none existing value, it will return the default_value.
 Accessing multiple dimensions is not like a dict. You do data_store["first_dimension", "second_dimension"] instead of data_store["first_dimension"]["second_dimension"]
 """
 data_store = Hash(default_value=0)

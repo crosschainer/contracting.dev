@@ -4,4 +4,4 @@
 
 ## Contracting
 
-* [Basic Contract Structure](contracting/basic-contract-structure.md)
+* [Basic Contract Structure](the-company/vision-and-values.md)
